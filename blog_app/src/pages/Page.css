@@ -1,0 +1,11 @@
+/* Page.css */
+
+.user-email {
+  display: inline;
+}
+
+@media (max-width: 768px) {
+  .user-email {
+    display: none !important;
+  }
+}
